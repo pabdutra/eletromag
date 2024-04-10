@@ -1,1 +1,1 @@
-# eletromag
+# Projeto WPT - Eletromagnetismo e Ondulatória
